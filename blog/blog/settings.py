@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'Account',
     'category',
     'Booking',
+    'Review'
 ]
 
 MIDDLEWARE = [
